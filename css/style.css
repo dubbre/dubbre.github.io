@@ -1,0 +1,79 @@
+body {
+  background-color: #f5f7f9;
+}
+
+.shake {
+	font-size: 30;
+}
+.card {
+	background-color: rgba(0,0,0,0.1);
+	padding: 20px;
+	border: 1px solid black;
+	margin-bottom: 10px; 
+}
+
+.text-center {
+	width: 400px;
+	background-color: grey;
+}
+
+.card-title {
+	font-family: calibri;
+	font-size: 50px;
+}
+
+.right-back {
+	width: 800px;
+}
+
+.frame {
+	background-color: white;
+}
+
+.about_me {
+	font-size: 50px;
+	text-align: center;
+}
+
+.description {
+	font-size: 20px;
+	text-align: justify;
+}
+
+.plot {
+	font-size: 50px;
+	text-align: center;
+}
+
+.information {
+	text-align: center;
+}
+
+.plot_content {
+	font-size: 20px;
+	text-align: justify;
+}
+
+.skills {
+	font-size: 20px;
+}
+
+.fa-linkedin-square {
+	color: blue;
+}
+
+.fa-twitter {
+	color: blue;
+}
+
+.fa-spotify {
+	color: blue;
+}
+
+.fa-facebook-square {
+	color: blue;
+}
+
+.navbar-brand, .nav-link {
+	color: white;
+}
